@@ -1,0 +1,12 @@
+Cabin: 0-Abbas Muneer 100
+Cabin: 1-Empty
+Cabin: 2-Empty
+Cabin: 3-Empty
+Cabin: 4-Empty
+Cabin: 5-Empty
+Cabin: 6-Empty
+Cabin: 7-Empty
+Cabin: 8-Empty
+Cabin: 9-Empty
+Cabin: 10-Empty
+Cabin: 11-Empty
